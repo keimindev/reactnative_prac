@@ -1,0 +1,1 @@
+export const YELLOW_COLOR = "#ffa801"
